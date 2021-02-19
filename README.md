@@ -1,4 +1,4 @@
-# cs & cp preparation
+# cp preparation
 
 ### Open courses for algorithms and data structures
 
