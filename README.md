@@ -19,4 +19,6 @@
         - [ ] [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
     - [ ] Think Like A Programmer --> Chapter 6
     - [ ] Algorithmic Thinking --> Chapter 2
+    - [ ] Brian Harvey's Lectures:
+        - [ ] [Lecture 8 | Recursion and Iteration (video)](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
 
